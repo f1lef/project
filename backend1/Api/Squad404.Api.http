@@ -1,0 +1,6 @@
+@Squad404.Api_HostAddress = http://localhost:5032
+
+GET {{Squad404.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
